@@ -112,4 +112,4 @@ This project was developed to practice Python-based data analysis and visualizat
 
 ⭐ If you find this project useful, consider giving the repository a star!
 
-🌐 **Explore the live project:** [https://stay-scope.vercel.app/](https://stay-scope.vercel.app/)
+
